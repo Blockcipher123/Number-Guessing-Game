@@ -5,7 +5,7 @@ import random
 
 # generating random no to com
 c = random.randint(1,5)
-print(c)
+# print(c) # print the random number
 
 # welcomeing the use in the game
 print('Welcome to this game!')
